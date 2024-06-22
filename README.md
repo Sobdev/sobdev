@@ -21,26 +21,18 @@ Soy un **Desarrollador Full Stack** , de origen polaco, apasionado por el aprend
 - [LinkedIn](https://www.linkedin.com/in/adriansobota)
 - [GitHub](https://github.com/Sobdev)
 
+---
+
 ### 💼 Proyectos Destacados
 
-#### [TripBliss](https://trip-bliss.netlify.app/)
-Plataforma de viajes aleatorios, desarrollada con MongoDB, Express, React y Node.js.
-##### [Frontend Repo](https://github.com/CristinaColomoiets/random-experience-client)
-##### [Backend Repo](https://github.com/CristinaColomoiets/random-experience-server)
-##### [Showcase](https://www.linkedin.com/posts/ironhack-spain_ironhack-project-students-activity-7208740310619721731)
-
-
-
-#### [DROPHIT](https://drop-hit.netlify.app/)
-Base de datos de canciones y artistas para una empresa modelo. JSON Server.
-##### [Frontend Repo](https://github.com/ernohilarion/Project-Client)
-##### [Backend Repo](https://github.com/ernohilarion/Project-Server)
+| Proyecto   | Descripción                                                                                                                                      | Frontend Repo                                                                                                     | Backend Repo                                                                                                      | Enlace                        |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| TripBliss  | Plataforma de viajes aleatorios, desarrollada con MongoDB, Express, React y Node.js.                                                            | [Frontend Repo](https://github.com/CristinaColomoiets/random-experience-client)                                    | [Backend Repo](https://github.com/CristinaColomoiets/random-experience-server)                                    | [TripBliss](https://trip-bliss.netlify.app/) |
+| DROPHIT    | Base de datos de canciones y artistas para una empresa modelo, utilizando JSON Server.                                                          | [Frontend Repo](https://github.com/ernohilarion/Project-Client)                                                   | [Backend Repo](https://github.com/ernohilarion/Project-Server)                                                    | [DROPHIT](https://drop-hit.netlify.app/)      |
 
 ### 📚 Formación
 
 - **Bootcamp**: IronHack Madrid (Web Development)
-- **Grado** URJC (Marketing)
-- **FPGS** IES ISLAS FILIPINAS (Comercio)
+- **Grado**: Universidad Rey Juan Carlos (Marketing)
+- **FPGS**: IES ISLAS FILIPINAS (Comercio)
 - **Cursos Online**: Udemy, Platzi
-
----
