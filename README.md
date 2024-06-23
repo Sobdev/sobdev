@@ -18,7 +18,7 @@ I am a `Full Stack Developer` from Poland based in Madrid, passionate about cont
 - **Frontend**: JavaScript, React.js, HTML5, CSS, Bootstrap/Tailwind.
 - **Backend**: Node.js, Express, Mongoose, RESTful APIs.
 - **Databases**: MongoDB.
-- **Others**: Git, Docker.
+- **Others**: Git, Docker, Linux.
 
 ---
 
