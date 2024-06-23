@@ -1,4 +1,4 @@
-# Hello World! I'm Adrian Sobota Matuszak 🇪🇸🇬🇧🇵🇱
+# Hello World! I'm Adrian Sobota Matuszak
 
 I am a `Full Stack Developer` from Poland based in Madrid, passionate about continuous learning, self-taught, and the creation of innovative solutions. Specializing in modern web applications, I always seek to improve my skills and explore new technologies, looking for the best ways to do things.
 
