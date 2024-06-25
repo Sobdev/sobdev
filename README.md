@@ -2,7 +2,7 @@
 
 I am a `Full Stack Developer` from Poland based in Madrid, passionate about continuous learning, self-taught, and the creation of innovative solutions with a background and degrees in Marketing and Sales Management. Specializing in modern web applications, I always seek to improve my skills and explore new technologies, looking for the best ways to do things. Graduate from IronHack Madrid.
 
-### 📬 Contact
+### 📩 Contact
 
 - [✉️ Email](mailto:dev.sobota@gmail.com)
 - [📲 Telegram](https://t.me/Sobota)
