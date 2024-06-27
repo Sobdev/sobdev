@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Adrian 👨‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2338C2FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f76b47&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
 </p>
 <p align="center">
     &emsp;
@@ -15,12 +15,12 @@
 
 ## 🙋‍♂️ About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=150px></picture>
+<picture> <img align="right" src="https://www.freecodecamp.org/news/content/images/2020/02/brett-rambo-thumbs-up.gif" width=170px></picture>
 
-- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`.
-- 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`.
-- 💻 Passionate about creating innovative solutions with modern web applications.
-- 🔎 Always seeking to improve my skills and explore new technologies. Open to new job opportunities and collaborations.
+- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`
+- 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`
+- 💻 Passionate about creating innovative solutions with modern web applications
+- 🔎 Always seeking to improve my skills and explore new technologies. Open to work
 
 ## 🛠️ Skills
 <p align="center"> 
@@ -43,8 +43,6 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
