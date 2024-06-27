@@ -1,19 +1,66 @@
-# Hello World! I'm Adrian 👨‍💻
+<h1 align="center">Hello World! I'm Adrian 👨‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2338C2FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
+</p>
+<p align="center">
+    &emsp;
+	<a href="mailto:dev.sobota@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    &emsp;
+	<a href="https://www.linkedin.com/in/adriansobota"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    &emsp;
+	<a href="https://t.me/Sobota"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    &emsp;
+    <a href="https://discordapp.com/users/Yosobo"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
-A `Full Stack Developer` from Poland based in Madrid, passionate about continuous learning, self-taught, and the creation of innovative solutions with a background and degrees in Marketing and Sales Management. Specializing in modern web applications, I always seek to improve my skills and explore new technologies, looking for the best ways to do things. Graduate from IronHack Madrid.
+## 🙋‍♂️ About me
 
-### 📩 Contact
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=150px></picture>
 
-- [✉️ Email](mailto:dev.sobota@gmail.com)
-- [📲 Telegram](https://t.me/Sobota)
-- [👨‍💻 LinkedIn](https://www.linkedin.com/in/adriansobota)
+- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`.
+- 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`.
+- 💻 Passionate about creating innovative solutions with modern web applications.
+- 🔎 Always seeking to improve my skills and explore new technologies. Open to new job opportunities and collaborations.
 
-### 🚀 Main Skills
+## 🛠️ Skills
+<p align="center"> 
+  &emsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
+    &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+    &emsp;
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
+</p>
 
-- **Frontend**: JavaScript, React.js, HTML5, CSS, Bootstrap/Tailwind.
-- **Backend**: Node.js, Express, Mongoose, RESTful APIs.
-- **Databases**: MongoDB.
-- **Others**: Git, Docker, Linux.
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
+</p>
+
+<p align="center"> 
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=plastic&logo=express&logoColor=white"></a>
+  &emsp;
+  <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
+</p>
 
 ---
 
