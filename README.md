@@ -29,9 +29,24 @@
     &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     &emsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white"></a>
+    &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"></a>
+    &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
     &emsp;
   <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
+</p>
+
+<p align="center"> 
+  &emsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=plastic&logo=express&logoColor=white"></a>
+  &emsp;
+  <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -45,17 +60,6 @@
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
-</p>
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
-  &emsp;
-  <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?style=plastic&logo=express&logoColor=white"></a>
-  &emsp;
-  <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
 </p>
 
 ---
