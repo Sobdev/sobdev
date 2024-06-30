@@ -20,7 +20,7 @@
 - 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`
 - 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`
 - 💻 Passionate about creating innovative solutions with modern web applications
-- 🔎 Always seeking to improve my skills and explore new technologies. Open to work
+- 🔎 Always seeking to improve my skills and explore new technologies
 
 ## 🛠️ Skills
 <p align="center"> 
