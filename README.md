@@ -47,6 +47,8 @@
   <a href="https://mongoosejs.com/" target="_blank"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white"></a>
   &emsp;
   <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=plastic&logo=node.js&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
 
 <p align="center">
