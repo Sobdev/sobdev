@@ -9,8 +9,6 @@
 	<a href="https://www.linkedin.com/in/adriansobota"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     &emsp;
 	<a href="https://t.me/Sobota"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    &emsp;
-    <a href="https://discordapp.com/users/Yosobo"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ## 🙋‍♂️ About me
