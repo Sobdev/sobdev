@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Adrian 👨‍💻<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23f76b47&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
 </p>
 <p align="center">
     &emsp;
@@ -66,9 +66,9 @@
 
 ### 💼 Featured Projects
 
-| Project   | Description                                                                                                                                      | Frontend                                                                                                     | Backend                                                                                                      | Link                        |
+| Project   | Description                                                                                                                                      | Frontend Repo                                                                                                     | Backend Repo                                                                                                      | Link                        |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| TripBliss  | A platform for random travel experiences, developed with MongoDB, Express, React, and Node.js.                                                            | [Repo](https://github.com/CristinaColomoiets/random-experience-client)                                    | [Repo](https://github.com/CristinaColomoiets/random-experience-server)                                    | [TripBliss](https://trip-bliss.netlify.app/) |
-| DROPHIT    | A database of songs and artists for a model company, using JSON Server.                                                          | [Repo](https://github.com/ernohilarion/Project-Client)                                                   | [Repo](https://github.com/ernohilarion/Project-Server)                                                    | [DROPHIT](https://drop-hit.netlify.app/)      |
+| TripBliss  | A platform for random travel experiences, developed with MongoDB, Express, React, and Node.js.                                                            | [Frontend Repo](https://github.com/CristinaColomoiets/random-experience-client)                                    | [Backend Repo](https://github.com/CristinaColomoiets/random-experience-server)                                    | [TripBliss](https://trip-bliss.netlify.app/) |
+| DROPHIT    | A database of songs and artists for a model company, using JSON Server.                                                          | [Frontend Repo](https://github.com/ernohilarion/Project-Client)                                                   | [Backend Repo](https://github.com/ernohilarion/Project-Server)                                                    | [DROPHIT](https://drop-hit.netlify.app/)      |
 
 ---
