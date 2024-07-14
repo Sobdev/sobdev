@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://www.freecodecamp.org/news/content/images/2020/02/brett-rambo-thumbs-up.gif" width=170px></picture>
 
-- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`
+- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and <a href="https://www.urjc.es/">Rey Juan Carlos University</a>
 - 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`
 - 💻 Passionate about creating innovative solutions with modern web applications
 - 🔎 Always seeking to improve my skills and explore new technologies
