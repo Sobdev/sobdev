@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://www.freecodecamp.org/news/content/images/2020/02/brett-rambo-thumbs-up.gif" width=170px></picture>
 
-- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and <a href="https://www.urjc.es/">Rey Juan Carlos University</a>
+- 🎓 Graduate from <a href="https://www.ironhack.com/">IronHack Madrid</a> and `Rey Juan Carlos University`
 - 📚 Self-taught with a background and degrees in `Marketing` and `Sales Management`
 - 💻 Passionate about creating innovative solutions with modern web applications
 - 🔎 Always seeking to improve my skills and explore new technologies
@@ -33,7 +33,7 @@
     &emsp;
   <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
     &emsp;
-  <a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-%2361DAFB.svg?style=plastic&logo=astro&logoColor=black"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
 </p>
 
 <p align="center"> 
