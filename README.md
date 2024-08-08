@@ -3,12 +3,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;from+Poland+based+in+Madrid;Focused+on+improving!🚀"></a>
 </p>
 <p align="center">
-    &emsp;
-	<a href="mailto:dev.sobota@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    &emsp;
-	<a href="https://www.linkedin.com/in/adriansobota"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    &emsp;
-	<a href="https://t.me/Sobota"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub CLI" src="https://img.shields.io/badge/GitHub%20CLI-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
 </p>
 
 ## 🙋‍♂️ About me
@@ -66,9 +70,9 @@
 
 ### 💼 Featured Projects
 
-| Project   | Description                                                                                                                                      | Frontend Repo                                                                                                     | Backend Repo                                                                                                      | Link                        |
-|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| TripBliss  | A platform for random travel experiences, developed with MongoDB, Express, React, and Node.js.                                                            | [Frontend Repo](https://github.com/CristinaColomoiets/random-experience-client)                                    | [Backend Repo](https://github.com/CristinaColomoiets/random-experience-server)                                    | [TripBliss](https://trip-bliss.netlify.app/) |
-| DROPHIT    | A database of songs and artists for a model company, using JSON Server.                                                          | [Frontend Repo](https://github.com/ernohilarion/Project-Client)                                                   | [Backend Repo](https://github.com/ernohilarion/Project-Server)                                                    | [DROPHIT](https://drop-hit.netlify.app/)      |
+| Project   | Description                                                                                    | Frontend Repo                                                                   | Backend Repo                                                                   | Link                                         |
+| --------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------- |
+| TripBliss | A platform for random travel experiences, developed with MongoDB, Express, React, and Node.js. | [Frontend Repo](https://github.com/CristinaColomoiets/random-experience-client) | [Backend Repo](https://github.com/CristinaColomoiets/random-experience-server) | [TripBliss](https://trip-bliss.netlify.app/) |
+| DROPHIT   | A database of songs and artists for a model company, using JSON Server.                        | [Frontend Repo](https://github.com/ernohilarion/Project-Client)                 | [Backend Repo](https://github.com/ernohilarion/Project-Server)                 | [DROPHIT](https://drop-hit.netlify.app/)     |
 
 ---
