@@ -19,9 +19,9 @@
     &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
     &emsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"></a>
-    &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+    &emsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"></a>
     &emsp;
   <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
   &emsp;
@@ -52,6 +52,16 @@
     <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
+</p>
+
+## 🧪 Learning
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=swift&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-0C1222?style=plastic&logo=astro&logoColor=white"></a>
 </p>
 
 ---
